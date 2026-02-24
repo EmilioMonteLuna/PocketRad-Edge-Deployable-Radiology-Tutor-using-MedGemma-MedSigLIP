@@ -1,4 +1,4 @@
-# PocketRad — Edge-Deployable Radiology Education with MedGemma + MedSigLIP
+# PocketRad —  Radiology Education with MedGemma + MedSigLIP
 
 Retrieval-augmented chest X-ray education tool using Google's HAI-DEF models.
 Upload a CXR → retrieve 3 visually similar confirmed cases → get a grounded educational explanation.
